@@ -70,7 +70,7 @@ AI 얼굴 인식으로 야구 중계 영상에서 사용자의 얼굴을 찾는 
 - 온보딩, 데일리 미션, 커뮤니티, 프로필 경험을 제공하는 팀 프로젝트
 - **Links** — [Organization](https://github.com/UMC-Closit) · [Frontend](https://github.com/UMC-Closit/FrontEnd)
 
-### ✅ Dujjonku · Private Repository
+### ✅ 아차차 · Private Repository
 
 멘토링 운영 흐름을 지원하는 비공개 팀 프로젝트에서 TypeScript 프론트엔드 개발에 참여했습니다.
 
